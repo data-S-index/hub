@@ -35,9 +35,8 @@ This repo is a catalog of S-index project outputs: code repositories, released d
 ### Data
 | Resource | Type | What it contains | Status | Latest | License|
 |---|---|---|---|---|---
-| [S-index Real-World Testing and Validation Dataset](https://github.com/data-S-index/overview)| Dataset | Dataset metadata, FAIR scores, citations, mentions, and research field data collected/generated during our real world testing and validation of the S-index | Stable | v1.0.0 | CC0 |
+| [S-index Real-World Testing and Validation Dataset](https://doi.org/10.5281/zenodo.18628067)| Dataset | Dataset metadata, FAIR scores, citations, mentions, and research field data collected/generated during our real world testing and validation of the S-index | Stable | v1.0.0 | CC0 |
 | [S-index Real-World Testing and Validation DB](https://github.com/data-S-index/overview)| Dataset | A DuckDB friendly database with all the data collected plus S-index calculated as part of our real world validation. This database is needed for the real world analysis Jupyter notebook. | Stable | v1.0.0 | CC0 |
-| [MDC Data Citation Corpus DB](https://github.com/data-S-index/overview)| Dataset | A DuckDB friendly version of the Make Data Count (MDC) citation corpus used to find citations during our real world testing and validation of the S-index | Stable | v1.0.0 | CC0 |
 
 
 
