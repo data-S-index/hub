@@ -4,7 +4,7 @@ This repo is a catalog of S-index project outputs: code repositories, released d
 
 ## Quick links
 - 📘 S-index overview: [github.com/data-S-index/overview](https://github.com/data-S-index/overview)
-- 🌐 Web app: [beta.scholardata.io](beta.scholardata.io)
+- 🌐 Scholar Data web app: [beta.scholardata.io](beta.scholardata.io)
 - 👩🏻‍💻 All code: [github.com/data-s-index](https://github.com/data-s-index)
 - 🗃️ Data releases (Zenodo): [zenodo.org/communities/s-index](https://zenodo.org/communities/s-index/)
 - 🗂️ Full catalog: see below
