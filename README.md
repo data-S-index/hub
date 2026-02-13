@@ -6,7 +6,7 @@ This repo is a catalog of S-index project outputs: code repositories, released d
 - 📘 S-index overview: [github.com/data-S-index/overview](https://github.com/data-S-index/overview)
 - 🌐 Scholar Data web app: [beta.scholardata.io](beta.scholardata.io)
 - 👩🏻‍💻 All code: [github.com/data-s-index](https://github.com/data-s-index)
-- 🗃️ Data releases (Zenodo): [zenodo.org/communities/s-index](https://zenodo.org/communities/s-index/)
+- 🗃️ Data and code archival (Zenodo): [zenodo.org/communities/s-index](https://zenodo.org/communities/s-index/)
 - 🗂️ Full catalog: see below
 - 💬 Questions: [GitHub Issue](https://github.com/data-S-index/hub/issues) or bvhpatel@gmail.com
 - 🔗 Cite this work: Coming soon
