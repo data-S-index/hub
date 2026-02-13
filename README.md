@@ -24,7 +24,7 @@ This repo is a catalog of S-index project outputs: code repositories, released d
 | Resource | Type | What it contains | Status | Latest | License | 
 |---|---|---|---|---|---|
 | [S-index Parameters Analysis](https://github.com/data-S-index/s-index-parameters-analysis)| Code | Jupyter notebook where we analyze how different parameters influence the S-index to support our design choice | Stable | v1.0.0 | MIT |
-| [S-index Real-Worl Testing and Validation Results](https://github.com/data-S-index/s-index-real-world)| Code | Jupyter notebook where we the analyze the results of processing 49M+ datasets and calculating the S-index of 1M+ researchers | Stable | v1.0.0 | MIT |
+| [S-index Real-World Testing and Validation Results](https://github.com/data-S-index/s-index-real-world)| Code | Jupyter notebook where we the analyze the results of processing 49M+ datasets and calculating the S-index of 1M+ researchers | Stable | v1.0.0 | MIT |
 | [Sindex Data Collection Pipeline](https://github.com/data-S-index/s-index-pipeline)| Code | Python code and Jupyter notebooks developed to collect dataset metadata, calculate FAIR scores, find citations, identify mentions, assign research field, and calculate S-index for our large scale testing with 49M+ datasets. A summary of the results in included. | Stable | v1.0.0 | MIT | 
 | [Research field assignment model](https://github.com/data-S-index/s-index-real-world)| Code | Code for the custom fine-tune model we developed to assign research fields to datasets based on their metadata using the OpenAlex Topics taxonomy | Stable | v1.0.0 | MIT | 
 | [F-UJI fork](https://github.com/data-S-index/fuji)| Code | Fork of the F-UJI repository where we adapted the code for large scale usage | Stable | N/A | MIT |
@@ -35,9 +35,9 @@ This repo is a catalog of S-index project outputs: code repositories, released d
 ### Data
 | Resource | Type | What it contains | Status | Latest | License|
 |---|---|---|---|---|---
-| [Dataset metadata](https://github.com/data-S-index/overview)| Dataset | Dataset metadata, FAIR scores, citations, mentions, and research field data collected/generated during our real world testing and validation of the S-index | Stable | v1.0.0 | CC0 |
-| [Real world results DB](https://github.com/data-S-index/overview)| Dataset | A DuckDB friendly database with all the data collected plus S-index calculated as part of our real world validation. This database is needed for the real world analysis Jupyter notebook. | Stable | v1.0.0 | CC0 |
-| [MDC citation corpus DB](https://github.com/data-S-index/overview)| Dataset | A DuckDB friendly version of the Make Data Count (MDC) citation corpus used to find citations during our real world testing of the S-index | Stable | v1.0.0 | CC0 |
+| [S-index Real-World Testing and Validation Dataset](https://github.com/data-S-index/overview)| Dataset | Dataset metadata, FAIR scores, citations, mentions, and research field data collected/generated during our real world testing and validation of the S-index | Stable | v1.0.0 | CC0 |
+| [S-index Real-World Testing and Validation DB](https://github.com/data-S-index/overview)| Dataset | A DuckDB friendly database with all the data collected plus S-index calculated as part of our real world validation. This database is needed for the real world analysis Jupyter notebook. | Stable | v1.0.0 | CC0 |
+| [MDC Data Citation Corpus DB](https://github.com/data-S-index/overview)| Dataset | A DuckDB friendly version of the Make Data Count (MDC) citation corpus used to find citations during our real world testing and validation of the S-index | Stable | v1.0.0 | CC0 |
 
 
 
