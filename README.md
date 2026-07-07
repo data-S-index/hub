@@ -3,7 +3,6 @@
 This repo is a catalog of S-index project outputs: code repositories, released datasets, and materials needed to reproduce results. We will keep this updated as we keep working on this project. 
 
 ## Quick links
-- 🌐 Scholar Data web app: [scholardata.io](https://scholardata.io)
 - 📄 Scholar Data documentation: [docs.scholardata.io](https://docs.scholardata.io)
 - 👩🏻‍💻 All code: [github.com/data-s-index](https://github.com/data-s-index)
 - 🗃️ Data and code archival (Zenodo): [zenodo.org/communities/s-index](https://zenodo.org/communities/s-index/)
@@ -17,7 +16,6 @@ This repo is a catalog of S-index project outputs: code repositories, released d
 
 | Resource | Type | What it contains | Status | Latest | License | 
 |---|---|---|---|---|---|
-| [Overview](https://github.com/data-S-index/overview)| Documentation | Details about the S-index formulation and calculation | Stable | v1.0.0 | CC-BY |
 | [Scholar Data documentation website](https://docs.scholardata.io)| Documentation | User documentation for Scholar Data along with details about the S-index and data collection | Stable | v1.0.0 | MIT |
 
 ### Code
